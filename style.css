@@ -77,8 +77,10 @@ main {
     padding: 1rem;
     background-color: var(--primary-color);
     border: var(--primary-color);
+    outline: none;
     font-family: inherit;
     font-size: inherit;
     color: inherit;
+    cursor: pointer;
 }
 
